@@ -1,0 +1,15 @@
+a{
+  color: red !important;
+  text-decoration: none !important;
+}
+
+.MuiListItem-root{
+  display: flex;
+  flex-direction: column !important;
+  width: 200px !important;
+
+  align-items: center !important;
+  max-height: 100vh !important;
+}
+
+
